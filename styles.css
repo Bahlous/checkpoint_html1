@@ -1,0 +1,38 @@
+/*Contenu de style.css*/
+
+header{
+    width: 100%;
+    margin-bottom:1%;
+    display: flex;
+    justify-content:space-between;
+    background-color: rgba(250, 216, 116, 0.726);
+}
+.list{
+    margin-right: 10px;
+
+}
+.search{
+    margin: 10px;
+    display: inline ;
+}
+body{
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-style: italic;
+        background-color: rgb(254, 249, 201);
+}
+.logo{
+    width: 50px;
+}
+.search a{
+    text-decoration: none;
+    color:rgb(158, 3, 3)
+}
+.section1{
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: left;
+}
+footer p{
+    background-color: rgba(249, 204, 69, 0.726);
+}
